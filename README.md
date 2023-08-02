@@ -11,8 +11,10 @@ To get your hands on this fantastic music player, simply click on the links belo
 using an iOS or Android device, we've got you covered:
 
 Figma File link:- https://shorturl.at/fBWX7
+![Frame 2](https://github.com/akp660/Music-Player_Figma-Design/assets/72183243/cba3e4c5-8b9e-4ccb-844d-257996b16a21)
 
 For any queries or assistance, feel free to reach out to us. We value your feedback and suggestions
 to continually enhance your music listening experience. Get ready to embark on a melodic journey
 with our music player app!
 Note: The links provided are for Figma File and do not represent real applications
+
